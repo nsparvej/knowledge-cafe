@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co/G2phtTN/1.jpg",
+        "title": "The Whispering Shadows",
+        "author": "Amelia Storm",
+        "author_img": "/src/components/images/Images/images/boy1.png",
+        "posted_date": "2024-08-15",
+        "reading_time": "9",
+        "hashtags": ["#Mystery", "#Thriller", "#NewRelease"]
+    },
+    {
+        "id": "002",
+        "cover": "https://i.ibb.co/vQQHfRR/2.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Liam O'Connor",
+        "author_img": "/src/components/images/Images/images/boy2.png",
+        "posted_date": "2024-07-10",
+        "reading_time": "8",
+        "hashtags": ["#ScienceFiction", "#Adventure", "#BestSeller"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co/9qMpqMr/3.jpg",
+        "title": "The Lost Kingdom",
+        "author": "Sofia Ruiz",
+        "author_img": "/src/components/images/Images/images/girl2.jpg",
+        "posted_date": "2024-09-01",
+        "reading_time": "7",
+        "hashtags": ["#Fantasy", "#Epic", "#Recommended"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co/2nYHvjH/4.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Ethan Blake",
+        "author_img": "/src/components/images/Images/images/girl1.jpg",
+        "posted_date": "2024-06-20",
+        "reading_time": "4",
+        "hashtags": ["#Romance", "#Drama", "#SummerReads"]
+    },
+    {
+        "id": "005",
+        "cover": "https://i.ibb.co/HHjb6bq/5.jpg",
+        "title": "The Quantum Paradox",
+        "author": "Olivia Bennett",
+        "author_img": "/src/components/images/Images/images/boy1.png",
+        "posted_date": "2024-08-30",
+        "reading_time": "6",
+        "hashtags": ["#SciFi", "#Mystery", "#MustRead"]
+    }
+]
